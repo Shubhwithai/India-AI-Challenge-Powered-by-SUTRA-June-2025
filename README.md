@@ -1,5 +1,5 @@
 <div align="center" id="top">
-  <Image src="https://github.com/Shubhwithai/India-AI-Challenge-Powered-by-SUTRA-June-2025/blob/main/SUTRA.svg" alt="India AI Challenge" width={750} height="auto" />
+  <Image src="https://github.com/Shubhwithai/India-AI-Challenge-Powered-by-SUTRA-June-2025/blob/main/Copy%20of%20SUTRA%20(1).svg" alt="India AI Challenge" width={750} height="auto" />
 </div>
 
 Welcome to the India AI Challenge 2025, powered by [SUTRA](https://www.two.ai/sutra)!
