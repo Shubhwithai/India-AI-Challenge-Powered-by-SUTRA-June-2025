@@ -33,7 +33,7 @@ Prizes for the top 3 teams and internships will be awarded at the end of the hac
 
 ## 📚 Resources
 
-- Access the [SUTRA Developer Hub](https://www.two.ai/sutra/developer) for API documentation, tutorials, and sample code.
+- Access the [SUTRA Developer Guide](https://github.com/sutra-dev/sutra-cookbook) for API documentation, tutorials, and sample code.
 - Explore the [resources](/resources) folder for guides on using SUTRA’s multilingual LLMs, sample datasets in Indian languages (Hindi, Tamil, Bengali, etc.), and hackathon-specific playbooks.
 - Join the SUTRA Developer Community on [Discord](https://discord.gg/sutra-ai) for real-time support and collaboration.
 
