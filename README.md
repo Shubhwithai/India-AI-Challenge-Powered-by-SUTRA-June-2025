@@ -94,7 +94,7 @@ Include the following in your GitHub issue and PR:
 
 **Tools Used**: List SUTRA’s API and other technologies or datasets used.
 
-**UI Approach**: Describe the user interface (e.g., web app, mobile app, CLI).
+**UI Approach**: Describe the user interface (e.g., web app, mobile app, Streamlit app).
 
 **Visuals**: Include mockups, diagrams, or screenshots to illustrate your idea or flow.
 
