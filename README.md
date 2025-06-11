@@ -2,7 +2,7 @@
   <Image src="https://github.com/Shubhwithai/India-AI-Challenge-Powered-by-SUTRA-June-2025/blob/main/SUTRA%20banner.svg" alt="India AI Challenge" width={750} height="auto" />
 </div>
 
-Welcome to the India AI Challenge 2025, powered by [SUTRA](https://www.two.ai/sutra)!
+# Welcome to the India AI Challenge 2025, powered by [SUTRA](https://www.two.ai/sutra)!
 
 Join us for an exciting hackathon from **June 12 to July 13, 2025**, where innovators, developers, and dreamers come together to build transformative, multilingual AI solutions tailored to India’s diverse linguistic and cultural landscape. Leverage SUTRA’s cost-efficient, multilingual Large Language Models (LLMs) to address pressing challenges in healthcare, education, agriculture, and more, empowering millions in their native languages.
 
