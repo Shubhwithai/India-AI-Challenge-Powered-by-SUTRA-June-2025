@@ -51,7 +51,7 @@ Prizes for the top 3 teams and internships will be awarded at the end of the hac
 ## 🚀 How to Participate
 
 1. **Register**: Sign up by June 25, 2025, via the [India AI Challenge website](https://www.indiaaichallenge.com).
-2. **Submit Your Proposal**: Create a GitHub issue in this repository using the [submission template](./.github/ISSUE_TEMPLATE/submission-template.md) by July 1, 2025.
+2. **Submit Your Proposal**: Create a GitHub issue in this repository using the [submission template](https://github.com/Shubhwithai/India-AI-Challenge-Powered-by-SUTRA-June-2025/blob/main/submission_template.md) by July 1, 2025.
 3. **Get Category Assignment**:
    - The hackathon team will review your proposal and assign it to a prize category (e.g., Best Use of SUTRA, Best Social Impact).
    - You can update your issue as you build, and categories may be adjusted until the final submission deadline.
