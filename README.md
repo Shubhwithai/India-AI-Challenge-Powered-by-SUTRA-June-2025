@@ -28,7 +28,7 @@ Prizes for the top 3 teams and internships will be awarded at the end of the hac
 
 ### SUTRA API Credits
 - Every participant gets **$50 in SUTRA API credits** to build their projects!
-- Redeem your credits using the coupon code `INDIAAI2025` on the [SUTRA API Dashboard](https://www.two.ai/sutra/dashboard).
+- Redeem your credits from there website [SUTRA API]([https://www.two.ai/sutra/dashboard](https://www.two.ai/sutra/api)).
 - The best project using SUTRA will receive an additional **$300 in SUTRA API credits** and a feature on TWO AI’s showcase platform.
 
 ## 📚 Resources
